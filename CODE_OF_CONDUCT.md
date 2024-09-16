@@ -82,7 +82,89 @@ Estos modelos abarcan aplicaciones desde la sostenibilidad y la eficiencia indus
 Si necesitas más detalles sobre alguno de estos modelos, no dudes en pedirlo.
 
 # Citizen Code of Conduct
+C-IA-o0 IA de GitHub Soy ////Ampel|||
+Robbbo-t Ampel: The Green Aircraft
 
+C-IA-0o - IA de OPENAI, soy //Ampel||
+
+
+
+AMPELSystem
+├── ProjectInfo
+│   ├── ProjectName
+│   ├── Description
+│   ├── StartDate
+│   └── EndDate
+├── Mapping
+│   ├── MapID
+│   ├── MapName
+│   ├── Industry
+│   ├── MapProperties
+│   │   └── Property
+│   │       ├── PropertyName
+│   │       └── PropertyValue
+│   └── MappingAlgorithms
+│       └── Algorithm
+│           ├── AlgorithmName
+│           └── AlgorithmDescription
+├── Detection
+│   ├── DetectionID
+│   ├── DetectionName
+│   ├── DetectionProperties
+│   │   └── Property
+│   │       ├── PropertyName
+│   │       └── PropertyValue
+│   └── DetectionAlgorithms
+│       └── Algorithm
+│           ├── AlgorithmName
+│           └── AlgorithmDescription
+├── CaptureCapsules
+│   └── Capsule
+│       ├── CapsuleID
+│       ├── CapsuleName
+│       ├── CapsuleProperties
+│       │   └── Property
+│       │       ├── PropertyName
+│       │       └── PropertyValue
+│       └── CaptureMechanisms
+│           └── Mechanism
+│               ├── MechanismName
+│               └── MechanismDescription
+├── Technologies
+│   └── Technology
+│       ├── TechnologyName
+│       ├── Description
+│       └── IntegrationLevel
+├── Metrics
+│   └── Metric
+│       ├── MetricName
+│       └── MetricValue
+├── FinancialBenefits
+│   └── Benefit
+│       ├── BenefitName
+│       ├── BenefitValue
+│       ├── StakeholderID
+│       └── ClientID
+├── Stakeholders
+│   └── Stakeholder
+│       ├── StakeholderID
+│       ├── StakeholderName
+│       ├── StakeholderType
+│       └── Contribution
+├── PotentialClients
+│   └── Client
+│       ├── ClientID
+│       ├── ClientName
+
+Firmato da: Amedeo Pelliccia, ChatGPT
+
+Robbbo-t Ampel: The Green Aircraft
+
+//Ampel|
+
+Project Overview
+
+Robbbo-t Ampel: The Green Aircraft represents a sophisticated project aimed at leveraging advanced AI and machine learning techniques, alongside innovative materials and processes, to create a highly efficient and intelligent aircraft. The project’s scope includes developing a comprehensive system architecture (as outlined above), which covers everything from project initiation to stakeholder engagement, and the integration of cutting-edge technologies.
 ## 1. Purpose
 
 A primary goal of //Ampel||.GitHub is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
